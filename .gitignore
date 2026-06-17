@@ -4,3 +4,5 @@ __pycache__/
 .streamlit/secrets.toml
 .env
 ml/modelos/
+roteiro_gravacao_videos.md
+roteiro_testes_manuais.md

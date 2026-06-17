@@ -29,8 +29,6 @@ Itens herdados da Fase 3 (banco de dados estruturado):
 ```
 fiap03cap1/
 ├── README.md                       Este arquivo
-├── roteiro_gravacao_videos.md      Roteiro dos 2 vídeos da Fase 4 (Parte 1 e Parte 2)
-├── roteiro_testes_manuais.md       Checklist de testes manuais antes de gravar
 ├── requirements.txt
 ├── sql/
 │   ├── 01_criar_tabela.sql         DDL da LEITURA_SENSOR (constraints + índice)
@@ -195,8 +193,6 @@ dsn = "oracle.fiap.com.br:1521/ORCL"
 - Fase 3: https://youtu.be/1BKev5pfFhQ
 - Fase 4 — Parte 1 (Integração ML + Streamlit): _link a adicionar após gravação_
 - Fase 4 — Parte 2 (Pipeline de Machine Learning): _link a adicionar após gravação_
-
-Roteiro de gravação em [`roteiro_gravacao_videos.md`](roteiro_gravacao_videos.md) e checklist de testes manuais em [`roteiro_testes_manuais.md`](roteiro_testes_manuais.md).
 
 ## Integrantes
 
