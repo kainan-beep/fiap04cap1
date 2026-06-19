@@ -191,8 +191,8 @@ dsn = "oracle.fiap.com.br:1521/ORCL"
 ## Vídeos
 
 - Fase 3: https://youtu.be/1BKev5pfFhQ
-- Fase 4 — Parte 1 (Integração ML + Streamlit): _link a adicionar após gravação_
-- Fase 4 — Parte 2 (Pipeline de Machine Learning): _link a adicionar após gravação_
+- Fase 4 — Parte 1 (Integração ML + Streamlit): https://youtu.be/xrVj5sZbpmU
+- Fase 4 — Parte 2 (Pipeline de Machine Learning): https://youtu.be/iLRs0dH_GrA
 
 ## Integrantes
 
